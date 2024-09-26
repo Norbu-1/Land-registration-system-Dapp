@@ -1,4 +1,4 @@
-### Land-registration-system-Dapp
+# Land-registration-system-Dapp
 
 Tools used:
 1. React.js used for front-end development.
